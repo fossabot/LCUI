@@ -1,6 +1,7 @@
 # The LCUI Project
 
-![LCUI Logo](https://lcui.lc-soft.io/static/images/lcui-logo-lg.png)
+![LCUI Logo](https://lcui.lc-soft.io/static/images/lcui-logo-lg.png)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flc-soft%2FLCUI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flc-soft%2FLCUI?ref=badge_shield)
+
 
 [![Join the chat at https://gitter.im/lc-soft/LCUI](https://badges.gitter.im/lc-soft/LCUI.svg)](https://gitter.im/lc-soft/LCUI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![加入讨论组 https://lcsoft.bearychat.com/apply](https://img.shields.io/badge/%E8%AE%A8%E8%AE%BA%E7%BB%84-bearychat-2dbe60.svg)](https://lcsoft.bearychat.com/apply)
@@ -162,6 +163,9 @@ You can use `-i` with `rebase` for an “interactive” rebase. This allows
 The LCUI Project is released under the GNU General Public License as published
  by the Free Software Foundation, either version 2 of the License, or (at your 
 option) any later version.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flc-soft%2FLCUI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flc-soft%2FLCUI?ref=badge_large)
 
 ## Thanks to 
 
